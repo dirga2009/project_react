@@ -9,8 +9,8 @@ function App() {
       <h1>Profile</h1>
       
       <Labelnama nama="dirga" />
-      <Labelalamat alamat="jalan kota bambu" />
-      
+      <Labelalamat alamat="jalan kota bambu utara 1" />
+
 
 
     </div>
